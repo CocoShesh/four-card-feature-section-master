@@ -1,5 +1,6 @@
 body {
   background: hsl(0, 0%, 98%);
+  margin: 5rem;
 }
 header {
   text-align: center;
